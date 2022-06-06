@@ -1,0 +1,5 @@
+Movie: Home Alone
+Serial: The Queen's Gambit
+Food: potatoes
+Season: Spring
+Country: New Zeland

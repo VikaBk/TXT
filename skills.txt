@@ -1,0 +1,6 @@
+Postman
+Git
+Charles
+SQL
+Mobile testing
+Jmeter
